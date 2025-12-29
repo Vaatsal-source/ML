@@ -1,0 +1,8 @@
+Flow :
+1.Collect Images
+2.Setup Labelling
+3.Update Images
+4.Update LabelMap
+5.Train
+6.Update Checkpoint 
+7.Detect 
